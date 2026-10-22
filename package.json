@@ -9,5 +9,8 @@
     "dev": "vite",
     "build": "vite build",
     "watch": "vite build --watch"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
   }
 }
